@@ -1,5 +1,5 @@
 const INITIAL_STATE = {
-    count: 0
+    count: 50
 }
 
 function CounterReducer(state = INITIAL_STATE, action){
